@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SubstanceTestView">
+        <attr name="substance_hue" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="SubstanceKotlinTestView">
+        <attr name="substance_kotlin_hue" format="integer" />
+    </declare-styleable>
+</resources>
